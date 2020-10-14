@@ -1,0 +1,18 @@
+plugins {
+    id 'com.alexvasilkov.git-dependencies' version '2.0.1'
+}
+git {
+    fetch 'https://github.com/newrelic/newrelic-java-agent.git', {
+        dir "$rootDir/newrelic-agent/"
+        tag 'v6.0.0'
+    }
+}
+rootProject.name = 'java-instrumentation-template'
+include 'tibco_be_bpmn_5'
+include 'tibco_be_channels_5'
+include 'tibco_be_common_5'
+include 'tibco_be_container'
+include 'tibco_be_ftl_5'
+include 'tibco_be_http_5'
+include 'tibco_be_interpreter_5'
+include 'tibco_be_kernel_5'
