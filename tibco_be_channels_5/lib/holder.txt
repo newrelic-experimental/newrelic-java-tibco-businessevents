@@ -1,0 +1,4 @@
+Add these jars from your installation   
+  
+cep-as-channel.jar
+cep-common.jar

@@ -1,0 +1,6 @@
+Add these jars from your installation   
+  
+cep-base.jar   
+cep-common.jar
+cep-kernel.jar
+TIBCOxml.jar
