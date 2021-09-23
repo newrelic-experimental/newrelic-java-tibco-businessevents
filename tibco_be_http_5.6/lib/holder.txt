@@ -1,5 +1,5 @@
 Add these jars from your installation   
   
-cep-bpmn.jar   
 cep-common.jar
+cep-drivers.jar
 cep-kernel.jar
