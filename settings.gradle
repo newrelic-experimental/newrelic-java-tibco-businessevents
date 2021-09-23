@@ -1,5 +1,4 @@
 rootProject.name = 'java-instrumentation-template'
-include 'tibco_be_bpmn_5'
 include 'tibco_be_channels_5'
 include 'tibco_be_common_5'
 include 'tibco_be_container'
